@@ -1,0 +1,13 @@
+.starships-list {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+  }
+  .starship-card {
+    background-color: #141415;
+    width: 800px;
+    padding: 5px 5px 5px 20px;
+    margin: 10px;
+  }
+  

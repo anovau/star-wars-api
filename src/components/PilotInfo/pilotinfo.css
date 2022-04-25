@@ -1,0 +1,16 @@
+.card {
+  width: 25%;
+  margin: 1rem;
+  background-color: #010100;
+  
+}
+.card > img {
+  width: 100%;
+  border-bottom: solid;
+  border-color: #9f4f60;
+  border-width: 5px;
+}
+.card > p {
+    margin-left: 1rem;
+}
+

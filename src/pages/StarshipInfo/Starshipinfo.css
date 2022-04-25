@@ -1,0 +1,40 @@
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 900px;
+}
+.main-container {
+  
+}
+.starship-container{
+    width: 900px;
+    padding: 1rem;
+    background-color: #010100;
+}
+.starship-container > img {
+  width: 100%;
+  border-bottom: solid;
+  border-color: #9F4F60;
+  border-width: 5px;
+  
+}
+.starship-container > div {
+  
+}
+.features {
+  display: flex;
+  flex-direction: row;
+}
+.features > div {
+  width: 50%;
+}
+h1 {
+  text-transform: uppercase;
+}
+.pilot {
+  display: flex;
+}
+.films {
+  display: flex;
+}

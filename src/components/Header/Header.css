@@ -1,0 +1,45 @@
+.main-header {
+  background-image: url(../../images/header.jpeg);
+  background-position: center;
+  display: flex;
+  height: 120px;
+}
+.rrss {
+  width: 25%;
+}
+.logo-container {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-login {
+  width: 25%;
+  display: flex;
+}
+.nav-login > li {
+    padding: 10px;
+    
+  }
+.logo {
+  width: 200px;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-width: 1px 0px 1px 0px;
+  border-color: #333232;
+}
+li {
+  list-style: none;
+}
+ul {
+    margin: 0px;
+}
+nav li {
+  padding: 10px 25px 10px 25px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #333232;
+}
